@@ -5,8 +5,8 @@ criaCartao (
 )
 criaCartao (
     'Geografia',
-    'Qual a capital da Argentina?',
-    'Buenos Aires'
+    'Qual é a montanha mais alta do mundo',
+    'Monte Everest'
 )
 criaCartao (
     'Geografia',
