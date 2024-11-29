@@ -10,11 +10,6 @@ criaCartao (
 )
 criaCartao (
     'Geografia',
-    'Qual a capital da Argentina?',
-    'Buenos Aires'
-)
-criaCartao (
-    'Geografia',
-    'Qual a capital da Argentina?',
-    'Buenos Aires'
+    'Quanto tempo demora pra luz do sol chegar a Terra?',
+    'cerca de 8,3 minutos'
 )
